@@ -4,4 +4,4 @@ Virtuals-in-Mongoose
 ```npm start``` 
 
 
-- Visit [localhost:3000/api/convert?q='link of csv file'](localhost:3000/) to view get json of csv file.
+- Visit [localhost:3000/api/convert?q='link of csv file'](localhost:3000/) to get json of csv file.

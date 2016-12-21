@@ -15,7 +15,6 @@
     "express": "~4.13.1",
     "formidable": "^1.0.17",
     "fs": "0.0.1-security",
-    "https": "^1.0.0",
     "jade": "~1.11.0",
     "morgan": "~1.6.1",
     "request": "^2.79.0",

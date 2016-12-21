@@ -9,7 +9,6 @@ var formidable = require('formidable');
 var form = new formidable.IncomingForm();
 var fs = require('fs');
 var Converter = require("csvtojson").Converter;
-var https = require('https');
 var async = require('async');
 var request = require('request');
 
